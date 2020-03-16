@@ -1,4 +1,4 @@
-# support of CleanYourScreenNow
+# Support of CleanYourScreenNow
 [Download on the App Store](https://apps.apple.com/us/developer/augusto-paixao/id1454678684)
 
 ![Group 72](https://user-images.githubusercontent.com/37581896/76715210-0e91ee00-670a-11ea-810c-1a9946405c66.png)
@@ -8,7 +8,7 @@ Augusto Paixão, the main producer of Clean Your Screen Now! takes your privacy 
 
 All information collected is aggregated and anonymized to protect individual users. Data is only used in aggregate form, as a statistical measure, and not in a manner that would identify you personally, in order to improve the app. Data on device type, operating system, and the user experience is automatically collected when using the product and solely used to optimize and improve the usability of Clean Your Screen Now.
 
-# frequent questions:
+# Frequent questions:
 ## How many notifications will I receive for day?
 The number of notifications will vary according to the amount of screen cleanings you register on the app, but there is a limit of six notifications sent per day.
 
