@@ -29,4 +29,5 @@ No, at this moment we're only running ad-based
 
 # How to reach us to further questions and troublemaking?
 You can contact us at any time through our social networks Facebook and Instagram (search for @IDKYApps) or send an email to augustohmp@hotmail.com
+
 The questions we list here were selected based on tests with users and questions that arose in general during the process, any new questions sent to our contact, will be added here.
