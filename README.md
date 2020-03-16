@@ -1,5 +1,5 @@
 # support of CleanYourScreenNow
-[Download on the App Store](https://apps.apple.com/us/developer/augusto-paixao/id1454678684
+[Download on the App Store](https://apps.apple.com/us/developer/augusto-paixao/id1454678684)
 
 ![Group 72](https://user-images.githubusercontent.com/37581896/76715210-0e91ee00-670a-11ea-810c-1a9946405c66.png)
 
