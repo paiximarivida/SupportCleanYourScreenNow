@@ -1,7 +1,7 @@
 # Support of CleanYourScreenNow
 [Download on the App Store](https://apps.apple.com/us/developer/augusto-paixao/id1454678684)
 
-![Group 72](https://user-images.githubusercontent.com/37581896/76715210-0e91ee00-670a-11ea-810c-1a9946405c66.png)
+![icone 180x180](https://user-images.githubusercontent.com/37581896/76811647-14063b80-67d1-11ea-88fe-d4e42fb8e64a.png)
 
 Privacy Policy
 Augusto Paixão, the main producer of Clean Your Screen Now! takes your privacy very seriously and will follow the highest standard to protect it. By using the app, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
