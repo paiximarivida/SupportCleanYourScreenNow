@@ -4,9 +4,9 @@
 ![Group 73](https://user-images.githubusercontent.com/37581896/76811710-529bf600-67d1-11ea-9797-d7d459a3f699.png)
 
 Privacy Policy
-Augusto Paixão, the main producer of Clean Your Screen Now! takes your privacy very seriously and will follow the highest standard to protect it. By using the app, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Augusto Paixão, the main producer of Is Your Screen Clean Now? takes your privacy very seriously and will follow the highest standard to protect it. By using the app, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-All information collected is aggregated and anonymized to protect individual users. Data is only used in aggregate form, as a statistical measure, and not in a manner that would identify you personally, in order to improve the app. Data on device type, operating system, and the user experience is automatically collected when using the product and solely used to optimize and improve the usability of Clean Your Screen Now.
+All information collected is aggregated and anonymized to protect individual users. Data is only used in aggregate form, as a statistical measure, and not in a manner that would identify you personally, in order to improve the app. Data on device type, operating system, and the user experience is automatically collected when using the product and solely used to optimize and improve the usability of Is Your Screen Clean Now?.
 
 
 # Frequent questions:
