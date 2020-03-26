@@ -1,4 +1,4 @@
-# Support of Clean Your Screen Now!
+# Support of Is Your Screen Clean Now?
 [Download on the App Store](https://apps.apple.com/us/developer/augusto-paixao/id1454678684)
 
 ![Group 73](https://user-images.githubusercontent.com/37581896/76811710-529bf600-67d1-11ea-9797-d7d459a3f699.png)
